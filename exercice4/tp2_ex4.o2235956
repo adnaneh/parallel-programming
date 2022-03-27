@@ -1,0 +1,16 @@
+Small drone
+720 480
+0.00193988 0.000146564
+Same result
+Big drone
+4000 2667
+0.0599722 0.00991531
+Same result
+fusion-shm07 (shm-20190905) - CentOS Linux release 7.4.1708 (Core) 
+2 x Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz (20 cores)
+Architecture x86_64 - Hyperthreading OFF - Turbo OFF
+Thu Mar 12 16:22:08 CET 2020
+
+real	0m2.002s
+user	0m0.000s
+sys	0m0.001s
